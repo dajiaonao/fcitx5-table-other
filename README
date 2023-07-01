@@ -3,4 +3,26 @@ fcitx-table-other provides some other tables for Fcitx, fork from ibus-table-oth
 Most of the table in this package is non-Chinese table. They are listed under /tables by language.
 
 The package is released under GPLv3+.
-    
+
+
+my notes:
+
+### add packages
+
+```
+sudo apt install libfcitx5utils-dev
+sudo apt install libimecore-dev
+sudo apt install libimetable0
+sudo apt install libimetable-dev
+sudo apt install extra-cmake-modules
+```
+
+compile and copy
+```
+mkdir -p /tmp/build
+cd /tmp/build
+
+cmake XXXXXX
+make
+sudo mv tables/latex.main.dict /usr/share/fcitx5/table/    
+```

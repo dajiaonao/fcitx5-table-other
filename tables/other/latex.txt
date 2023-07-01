@@ -1,4 +1,4 @@
-KeyCode=abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890\_[]{}
+KeyCode=abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890\_[]{}-
 Prompt=
 ConstructPhrase=
 Length=20
@@ -18,6 +18,8 @@ Length=20
 \circ ∘
 \circ °
 \pm ±
+\-- −
+\--- —
 \acute ´
 \mu µ
 \P ¶
