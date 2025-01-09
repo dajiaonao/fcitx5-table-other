@@ -29,8 +29,21 @@ Length=20
 \frac34 ¾
 \times ×
 \div ÷
+\Alpha Α
+\Beta Β
 \Gamma Γ
 \Delta Δ
+\Epsilon Ε
+\Zeta Ζ
+\Eta Η
+\Iota Ι
+\Kappa Κ
+\Omicron Ο
+\Rho Ρ
+\Tau Τ
+\Chi Χ
+\Mu Μ
+\Nu Ν
 \Theta Θ
 \Lambda Λ
 \Xi Ξ
@@ -39,6 +52,7 @@ Length=20
 \Phi Φ
 \Psi Ψ
 \Omega Ω
+\Upsilon Υ
 \alpha α
 \beta β
 \gamma γ
@@ -53,6 +67,7 @@ Length=20
 \mu μ
 \nu ν
 \xi ξ
+\omicron ο
 \pi π
 \rho ρ
 \varsigma ς
